@@ -3,7 +3,7 @@ class Program
 {
     static void Main()
     {
-        double x, b, a;
+        double x, b, a, c;
         Console.Write("Введите значение a: ");
         a = double.Parse(Console.ReadLine());
         Console.Write("Введите значение b: ");
